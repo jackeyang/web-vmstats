@@ -1,0 +1,216 @@
+start at: Sun Nov  4 21:56:58 CST 2018
+Sun, 04 Nov 2018 21:56:58 +0800 | INFO   | server     |  | Serving using application   : /usr/bin/vmstat -n 1
+Sun, 04 Nov 2018 21:56:58 +0800 | INFO   | server     |  | Serving static content from : web
+Sun, 04 Nov 2018 21:56:58 +0800 | INFO   | server     |  | Starting WebSocket server   : ws://VM-0-6-ubuntu:9231/
+Sun, 04 Nov 2018 21:56:58 +0800 | INFO   | server     |  | Serving CGI or static files : http://VM-0-6-ubuntu:9231/
+Sun, 04 Nov 2018 21:57:26 +0800 | ACCESS | http       | url:'http://healthyang.com/' | STATIC
+Sun, 04 Nov 2018 22:02:21 +0800 | ACCESS | http       | url:'http://healthyang.com/' | STATIC
+Sun, 04 Nov 2018 22:02:34 +0800 | ACCESS | http       | url:'http://healthyang.com/%E3%80%81' | STATIC
+Sun, 04 Nov 2018 22:02:37 +0800 | ACCESS | http       | url:'http://healthyang.com/' | STATIC
+Sun, 04 Nov 2018 22:02:38 +0800 | ACCESS | http       | url:'http://healthyang.com/' | STATIC
+Sun, 04 Nov 2018 22:04:08 +0800 | ACCESS | http       | url:'http://healthyang.com/' | STATIC
+Sun, 04 Nov 2018 22:04:12 +0800 | ACCESS | http       | url:'http://healthyang.com/' | STATIC
+Sun, 04 Nov 2018 22:06:00 +0800 | ACCESS | http       | url:'http://healthyang.com/' | STATIC
+Sun, 04 Nov 2018 22:06:01 +0800 | ACCESS | http       | url:'http://healthyang.com/' | STATIC
+Sun, 04 Nov 2018 22:07:36 +0800 | ACCESS | http       | url:'http://healthyang.com/' | STATIC
+Sun, 04 Nov 2018 22:07:37 +0800 | ACCESS | http       | url:'http://healthyang.com/' | STATIC
+Sun, 04 Nov 2018 22:11:36 +0800 | ACCESS | http       | url:'http://healthyang.com/' | STATIC
+Sun, 04 Nov 2018 22:13:52 +0800 | ACCESS | http       | url:'http://healthyang.com/' | STATIC
+Sun, 04 Nov 2018 22:14:39 +0800 | ACCESS | http       | url:'http://healthyang.com/' | STATIC
+Sun, 04 Nov 2018 22:14:42 +0800 | ACCESS | http       | url:'http://healthyang.com/' | STATIC
+Sun, 04 Nov 2018 22:15:42 +0800 | ACCESS | http       | url:'http://healthyang.com/' | STATIC
+Sun, 04 Nov 2018 22:16:50 +0800 | ACCESS | http       | url:'http://healthyang.com/%E3%80%81' | STATIC
+Sun, 04 Nov 2018 22:16:54 +0800 | ACCESS | http       | url:'http://healthyang.com/' | STATIC
+Sun, 04 Nov 2018 22:18:32 +0800 | ACCESS | http       | url:'http://healthyang.com/' | STATIC
+Sun, 04 Nov 2018 22:18:32 +0800 | ACCESS | http       | url:'http://healthyang.com/stats.css' | STATIC
+Sun, 04 Nov 2018 22:18:32 +0800 | ACCESS | http       | url:'http://healthyang.com/monitor/js/sugar-1.4.1.min.js' | STATIC
+Sun, 04 Nov 2018 22:18:32 +0800 | ACCESS | http       | url:'http://healthyang.com/monitor/js/jquery-2.0.3.min.js' | STATIC
+Sun, 04 Nov 2018 22:18:32 +0800 | ACCESS | http       | url:'http://healthyang.com/monitor/js/reconnecting-websocket.js' | STATIC
+Sun, 04 Nov 2018 22:18:32 +0800 | ACCESS | http       | url:'http://healthyang.com/monitor/js/smoothie.js' | STATIC
+Sun, 04 Nov 2018 22:18:32 +0800 | ACCESS | http       | url:'http://healthyang.com/monitor/js/chroma.min.js' | STATIC
+Sun, 04 Nov 2018 22:18:32 +0800 | ACCESS | http       | url:'http://healthyang.com/monitor/stats.js' | STATIC
+Sun, 04 Nov 2018 22:18:33 +0800 | ACCESS | http       | url:'http://healthyang.com/' | STATIC
+Sun, 04 Nov 2018 22:18:33 +0800 | ACCESS | http       | url:'http://healthyang.com/stats.css' | STATIC
+Sun, 04 Nov 2018 22:18:33 +0800 | ACCESS | http       | url:'http://healthyang.com/monitor/js/sugar-1.4.1.min.js' | STATIC
+Sun, 04 Nov 2018 22:18:33 +0800 | ACCESS | http       | url:'http://healthyang.com/monitor/js/jquery-2.0.3.min.js' | STATIC
+Sun, 04 Nov 2018 22:18:33 +0800 | ACCESS | http       | url:'http://healthyang.com/monitor/js/reconnecting-websocket.js' | STATIC
+Sun, 04 Nov 2018 22:18:33 +0800 | ACCESS | http       | url:'http://healthyang.com/monitor/js/smoothie.js' | STATIC
+Sun, 04 Nov 2018 22:18:33 +0800 | ACCESS | http       | url:'http://healthyang.com/monitor/js/chroma.min.js' | STATIC
+Sun, 04 Nov 2018 22:18:33 +0800 | ACCESS | http       | url:'http://healthyang.com/monitor/stats.js' | STATIC
+Sun, 04 Nov 2018 22:18:33 +0800 | ACCESS | http       | url:'http://healthyang.com/monitor/js/jquery-2.0.3.min.js' | STATIC
+Sun, 04 Nov 2018 22:18:33 +0800 | ACCESS | http       | url:'http://healthyang.com/monitor/js/reconnecting-websocket.js' | STATIC
+Sun, 04 Nov 2018 22:18:33 +0800 | ACCESS | http       | url:'http://healthyang.com/monitor/js/smoothie.js' | STATIC
+Sun, 04 Nov 2018 22:18:33 +0800 | ACCESS | http       | url:'http://healthyang.com/monitor/js/chroma.min.js' | STATIC
+Sun, 04 Nov 2018 22:18:33 +0800 | ACCESS | http       | url:'http://healthyang.com/monitor/stats.js' | STATIC
+Sun, 04 Nov 2018 22:19:00 +0800 | ACCESS | http       | url:'http://healthyang.com/' | STATIC
+Sun, 04 Nov 2018 22:19:00 +0800 | ACCESS | http       | url:'http://healthyang.com/monitor/js/sugar-1.4.1.min.js' | STATIC
+Sun, 04 Nov 2018 22:19:00 +0800 | ACCESS | http       | url:'http://healthyang.com/monitor/js/reconnecting-websocket.js' | STATIC
+Sun, 04 Nov 2018 22:19:00 +0800 | ACCESS | http       | url:'http://healthyang.com/monitor/js/smoothie.js' | STATIC
+Sun, 04 Nov 2018 22:19:00 +0800 | ACCESS | http       | url:'http://healthyang.com/monitor/js/jquery-2.0.3.min.js' | STATIC
+Sun, 04 Nov 2018 22:19:00 +0800 | ACCESS | http       | url:'http://healthyang.com/monitor/js/chroma.min.js' | STATIC
+Sun, 04 Nov 2018 22:19:00 +0800 | ACCESS | http       | url:'http://healthyang.com/stats.css' | STATIC
+Sun, 04 Nov 2018 22:19:00 +0800 | ACCESS | http       | url:'http://healthyang.com/monitor/stats.js' | STATIC
+Sun, 04 Nov 2018 22:19:00 +0800 | ACCESS | http       | url:'http://healthyang.com/monitor/js/jquery-2.0.3.min.js' | STATIC
+Sun, 04 Nov 2018 22:19:00 +0800 | ACCESS | http       | url:'http://healthyang.com/monitor/js/reconnecting-websocket.js' | STATIC
+Sun, 04 Nov 2018 22:19:00 +0800 | ACCESS | http       | url:'http://healthyang.com/monitor/js/smoothie.js' | STATIC
+Sun, 04 Nov 2018 22:19:00 +0800 | ACCESS | http       | url:'http://healthyang.com/monitor/js/chroma.min.js' | STATIC
+Sun, 04 Nov 2018 22:19:00 +0800 | ACCESS | http       | url:'http://healthyang.com/monitor/stats.js' | STATIC
+Sun, 04 Nov 2018 22:19:09 +0800 | ACCESS | http       | url:'http://healthyang.com/' | STATIC
+Sun, 04 Nov 2018 22:19:09 +0800 | ACCESS | http       | url:'http://healthyang.com/stats.css' | STATIC
+Sun, 04 Nov 2018 22:19:09 +0800 | ACCESS | http       | url:'http://healthyang.com/monitor/js/jquery-2.0.3.min.js' | STATIC
+Sun, 04 Nov 2018 22:19:09 +0800 | ACCESS | http       | url:'http://healthyang.com/monitor/js/chroma.min.js' | STATIC
+Sun, 04 Nov 2018 22:19:09 +0800 | ACCESS | http       | url:'http://healthyang.com/monitor/js/smoothie.js' | STATIC
+Sun, 04 Nov 2018 22:19:09 +0800 | ACCESS | http       | url:'http://healthyang.com/monitor/js/reconnecting-websocket.js' | STATIC
+Sun, 04 Nov 2018 22:19:09 +0800 | ACCESS | http       | url:'http://healthyang.com/monitor/js/sugar-1.4.1.min.js' | STATIC
+Sun, 04 Nov 2018 22:19:09 +0800 | ACCESS | http       | url:'http://healthyang.com/monitor/stats.js' | STATIC
+Sun, 04 Nov 2018 22:19:09 +0800 | ACCESS | http       | url:'http://healthyang.com/monitor/js/jquery-2.0.3.min.js' | STATIC
+Sun, 04 Nov 2018 22:19:09 +0800 | ACCESS | http       | url:'http://healthyang.com/monitor/js/reconnecting-websocket.js' | STATIC
+Sun, 04 Nov 2018 22:19:09 +0800 | ACCESS | http       | url:'http://healthyang.com/monitor/js/smoothie.js' | STATIC
+Sun, 04 Nov 2018 22:19:09 +0800 | ACCESS | http       | url:'http://healthyang.com/monitor/js/chroma.min.js' | STATIC
+Sun, 04 Nov 2018 22:19:09 +0800 | ACCESS | http       | url:'http://healthyang.com/monitor/stats.js' | STATIC
+Sun, 04 Nov 2018 22:19:12 +0800 | ACCESS | http       | url:'http://healthyang.com/' | STATIC
+Sun, 04 Nov 2018 22:19:12 +0800 | ACCESS | http       | url:'http://healthyang.com/stats.css' | STATIC
+Sun, 04 Nov 2018 22:19:12 +0800 | ACCESS | http       | url:'http://healthyang.com/monitor/js/sugar-1.4.1.min.js' | STATIC
+Sun, 04 Nov 2018 22:19:12 +0800 | ACCESS | http       | url:'http://healthyang.com/monitor/js/reconnecting-websocket.js' | STATIC
+Sun, 04 Nov 2018 22:19:12 +0800 | ACCESS | http       | url:'http://healthyang.com/monitor/js/smoothie.js' | STATIC
+Sun, 04 Nov 2018 22:19:12 +0800 | ACCESS | http       | url:'http://healthyang.com/monitor/js/chroma.min.js' | STATIC
+Sun, 04 Nov 2018 22:19:12 +0800 | ACCESS | http       | url:'http://healthyang.com/monitor/js/jquery-2.0.3.min.js' | STATIC
+Sun, 04 Nov 2018 22:19:12 +0800 | ACCESS | http       | url:'http://healthyang.com/monitor/stats.js' | STATIC
+Sun, 04 Nov 2018 22:19:12 +0800 | ACCESS | http       | url:'http://healthyang.com/monitor/js/reconnecting-websocket.js' | STATIC
+Sun, 04 Nov 2018 22:19:12 +0800 | ACCESS | http       | url:'http://healthyang.com/monitor/js/smoothie.js' | STATIC
+Sun, 04 Nov 2018 22:19:12 +0800 | ACCESS | http       | url:'http://healthyang.com/monitor/js/chroma.min.js' | STATIC
+Sun, 04 Nov 2018 22:19:12 +0800 | ACCESS | http       | url:'http://healthyang.com/monitor/stats.js' | STATIC
+Sun, 04 Nov 2018 22:19:57 +0800 | ACCESS | http       | url:'http://healthyang.com/' | STATIC
+Sun, 04 Nov 2018 22:19:57 +0800 | ACCESS | http       | url:'http://healthyang.com/stats.css' | STATIC
+Sun, 04 Nov 2018 22:19:57 +0800 | ACCESS | http       | url:'http://healthyang.com/stats.js' | STATIC
+Sun, 04 Nov 2018 22:20:08 +0800 | ACCESS | http       | url:'http://healthyang.com/index.html' | STATIC
+Sun, 04 Nov 2018 22:20:08 +0800 | ACCESS | http       | url:'http://healthyang.com/' | STATIC
+Sun, 04 Nov 2018 22:20:08 +0800 | ACCESS | http       | url:'http://healthyang.com/stats.css' | STATIC
+Sun, 04 Nov 2018 22:20:08 +0800 | ACCESS | http       | url:'http://healthyang.com/stats.js' | STATIC
+Sun, 04 Nov 2018 22:20:10 +0800 | ACCESS | http       | url:'http://healthyang.com/stats.css' | STATIC
+Sun, 04 Nov 2018 22:20:17 +0800 | ACCESS | http       | url:'http://healthyang.com/' | STATIC
+Sun, 04 Nov 2018 22:20:17 +0800 | ACCESS | http       | url:'http://healthyang.com/stats.css' | STATIC
+Sun, 04 Nov 2018 22:20:17 +0800 | ACCESS | http       | url:'http://healthyang.com/stats.js' | STATIC
+Sun, 04 Nov 2018 22:23:13 +0800 | ACCESS | http       | url:'http://healthyang.com/stats.css' | STATIC
+Sun, 04 Nov 2018 22:25:11 +0800 | ACCESS | http       | url:'http://healthyang.com/' | STATIC
+Sun, 04 Nov 2018 22:25:11 +0800 | ACCESS | http       | url:'http://healthyang.com/stats.css' | STATIC
+Sun, 04 Nov 2018 22:25:11 +0800 | ACCESS | http       | url:'http://healthyang.com/stats.js' | STATIC
+Sun, 04 Nov 2018 22:34:15 +0800 | ACCESS | http       | url:'http://healthyang.com/' | STATIC
+Sun, 04 Nov 2018 22:34:15 +0800 | ACCESS | http       | url:'http://healthyang.com/stats.css' | STATIC
+Sun, 04 Nov 2018 22:34:15 +0800 | ACCESS | http       | url:'http://healthyang.com/stats.js' | STATIC
+Sun, 04 Nov 2018 22:34:29 +0800 | ACCESS | http       | url:'http://healthyang.com/' | STATIC
+Sun, 04 Nov 2018 22:34:29 +0800 | ACCESS | http       | url:'http://healthyang.com/stats.css' | STATIC
+Sun, 04 Nov 2018 22:34:29 +0800 | ACCESS | http       | url:'http://healthyang.com/stats.js' | STATIC
+Sun, 04 Nov 2018 22:35:53 +0800 | ACCESS | http       | url:'http://healthyang.com/' | STATIC
+Sun, 04 Nov 2018 22:35:53 +0800 | ACCESS | http       | url:'http://healthyang.com/stats.css' | STATIC
+Sun, 04 Nov 2018 22:35:53 +0800 | ACCESS | http       | url:'http://healthyang.com/stats.js' | STATIC
+Sun, 04 Nov 2018 22:35:55 +0800 | ACCESS | session    | url:'http://healthyang.com/' id:'1541342155454637042' remote:'127.0.0.1' command:'/usr/bin/vmstat' origin:'https://healthyang.com' | CONNECT
+Sun, 04 Nov 2018 22:37:21 +0800 | ACCESS | http       | url:'http://healthyang.com/stats.css' | STATIC
+Sun, 04 Nov 2018 22:37:23 +0800 | ACCESS | http       | url:'http://healthyang.com/' | STATIC
+Sun, 04 Nov 2018 22:37:24 +0800 | ACCESS | http       | url:'http://healthyang.com/stats.css' | STATIC
+Sun, 04 Nov 2018 22:37:24 +0800 | ACCESS | http       | url:'http://healthyang.com/stats.js' | STATIC
+Sun, 04 Nov 2018 22:37:24 +0800 | ACCESS | session    | url:'http://healthyang.com/' id:'1541342244210866544' remote:'127.0.0.1' command:'/usr/bin/vmstat' origin:'https://healthyang.com' | CONNECT
+Sun, 04 Nov 2018 22:37:24 +0800 | ACCESS | session    | url:'http://healthyang.com/' id:'1541342155454637042' remote:'127.0.0.1' command:'/usr/bin/vmstat' origin:'https://healthyang.com' pid:'12638' | DISCONNECT
+Sun, 04 Nov 2018 22:37:24 +0800 | ERROR  | process    | url:'http://healthyang.com/' id:'1541342155454637042' remote:'127.0.0.1' command:'/usr/bin/vmstat' origin:'https://healthyang.com' pid:'12638' | Unexpected error while reading STDOUT from process: read |0: file already closed
+Sun, 04 Nov 2018 22:40:32 +0800 | ACCESS | http       | url:'http://healthyang.com/stats.css' | STATIC
+Sun, 04 Nov 2018 22:40:34 +0800 | ACCESS | http       | url:'http://healthyang.com/' | STATIC
+Sun, 04 Nov 2018 22:40:34 +0800 | ACCESS | http       | url:'http://healthyang.com/stats.css' | STATIC
+Sun, 04 Nov 2018 22:40:34 +0800 | ACCESS | http       | url:'http://healthyang.com/stats.js' | STATIC
+Sun, 04 Nov 2018 22:40:34 +0800 | ACCESS | session    | url:'http://healthyang.com/' id:'1541342434571905614' remote:'127.0.0.1' command:'/usr/bin/vmstat' origin:'https://healthyang.com' | CONNECT
+Sun, 04 Nov 2018 22:40:34 +0800 | ACCESS | session    | url:'http://healthyang.com/' id:'1541342244210866544' remote:'127.0.0.1' command:'/usr/bin/vmstat' origin:'https://healthyang.com' pid:'12725' | DISCONNECT
+Sun, 04 Nov 2018 22:40:34 +0800 | ERROR  | process    | url:'http://healthyang.com/' id:'1541342244210866544' remote:'127.0.0.1' command:'/usr/bin/vmstat' origin:'https://healthyang.com' pid:'12725' | Unexpected error while reading STDOUT from process: read |0: file already closed
+Sun, 04 Nov 2018 22:40:34 +0800 | ERROR  | process    | url:'http://healthyang.com/' id:'1541342244210866544' remote:'127.0.0.1' command:'/usr/bin/vmstat' origin:'https://healthyang.com' pid:'12725' | Unexpected error while reading STDERR from process: read |0: file already closed
+Sun, 04 Nov 2018 22:41:43 +0800 | ACCESS | http       | url:'http://healthyang.com/' | STATIC
+Sun, 04 Nov 2018 22:41:43 +0800 | ACCESS | http       | url:'http://healthyang.com/stats.css' | STATIC
+Sun, 04 Nov 2018 22:41:43 +0800 | ACCESS | http       | url:'http://healthyang.com/stats.js' | STATIC
+Sun, 04 Nov 2018 22:41:43 +0800 | ACCESS | session    | url:'http://healthyang.com/' id:'1541342503948615978' remote:'127.0.0.1' command:'/usr/bin/vmstat' origin:'https://healthyang.com' | CONNECT
+Sun, 04 Nov 2018 22:41:44 +0800 | ACCESS | session    | url:'http://healthyang.com/' id:'1541342434571905614' remote:'127.0.0.1' command:'/usr/bin/vmstat' origin:'https://healthyang.com' pid:'12884' | DISCONNECT
+Sun, 04 Nov 2018 22:41:44 +0800 | ERROR  | process    | url:'http://healthyang.com/' id:'1541342434571905614' remote:'127.0.0.1' command:'/usr/bin/vmstat' origin:'https://healthyang.com' pid:'12884' | Unexpected error while reading STDOUT from process: read |0: file already closed
+Sun, 04 Nov 2018 22:41:44 +0800 | ERROR  | process    | url:'http://healthyang.com/' id:'1541342434571905614' remote:'127.0.0.1' command:'/usr/bin/vmstat' origin:'https://healthyang.com' pid:'12884' | Unexpected error while reading STDERR from process: read |0: file already closed
+Sun, 04 Nov 2018 22:41:49 +0800 | ACCESS | session    | url:'http://healthyang.com/' id:'1541342503948615978' remote:'127.0.0.1' command:'/usr/bin/vmstat' origin:'https://healthyang.com' pid:'12936' | DISCONNECT
+Sun, 04 Nov 2018 22:41:51 +0800 | ACCESS | http       | url:'http://healthyang.com/' | STATIC
+Sun, 04 Nov 2018 22:41:51 +0800 | ACCESS | http       | url:'http://healthyang.com/stats.css' | STATIC
+Sun, 04 Nov 2018 22:41:51 +0800 | ACCESS | http       | url:'http://healthyang.com/stats.js' | STATIC
+Sun, 04 Nov 2018 22:41:51 +0800 | ACCESS | session    | url:'http://healthyang.com/' id:'1541342511851595093' remote:'127.0.0.1' command:'/usr/bin/vmstat' origin:'https://healthyang.com' | CONNECT
+Sun, 04 Nov 2018 22:42:16 +0800 | ACCESS | http       | url:'http://healthyang.com/' | STATIC
+Sun, 04 Nov 2018 22:42:16 +0800 | ACCESS | http       | url:'http://healthyang.com/stats.css' | STATIC
+Sun, 04 Nov 2018 22:42:16 +0800 | ACCESS | http       | url:'http://healthyang.com/stats.js' | STATIC
+Sun, 04 Nov 2018 22:42:16 +0800 | ACCESS | session    | url:'http://healthyang.com/' id:'1541342536548155453' remote:'127.0.0.1' command:'/usr/bin/vmstat' origin:'https://healthyang.com' | CONNECT
+Sun, 04 Nov 2018 22:42:39 +0800 | ACCESS | session    | url:'http://healthyang.com/' id:'1541342536548155453' remote:'127.0.0.1' command:'/usr/bin/vmstat' origin:'https://healthyang.com' pid:'12975' | DISCONNECT
+Sun, 04 Nov 2018 22:42:50 +0800 | ACCESS | http       | url:'http://healthyang.com/' | STATIC
+Sun, 04 Nov 2018 22:42:50 +0800 | ACCESS | http       | url:'http://healthyang.com/stats.css' | STATIC
+Sun, 04 Nov 2018 22:42:51 +0800 | ACCESS | http       | url:'http://healthyang.com/stats.js' | STATIC
+Sun, 04 Nov 2018 22:42:51 +0800 | ACCESS | session    | url:'http://healthyang.com/' id:'1541342571161391708' remote:'127.0.0.1' command:'/usr/bin/vmstat' origin:'https://healthyang.com' | CONNECT
+Sun, 04 Nov 2018 22:46:59 +0800 | ACCESS | http       | url:'http://healthyang.com/' | STATIC
+Sun, 04 Nov 2018 22:46:59 +0800 | ACCESS | http       | url:'http://healthyang.com/stats.css' | STATIC
+Sun, 04 Nov 2018 22:46:59 +0800 | ACCESS | session    | url:'http://healthyang.com/' id:'1541342571161391708' remote:'127.0.0.1' command:'/usr/bin/vmstat' origin:'https://healthyang.com' pid:'12994' | DISCONNECT
+Sun, 04 Nov 2018 22:46:59 +0800 | ACCESS | http       | url:'http://healthyang.com/stats.js' | STATIC
+Sun, 04 Nov 2018 22:47:00 +0800 | ACCESS | session    | url:'http://healthyang.com/' id:'1541342820081952230' remote:'127.0.0.1' command:'/usr/bin/vmstat' origin:'https://healthyang.com' | CONNECT
+Sun, 04 Nov 2018 22:47:05 +0800 | ACCESS | session    | url:'http://healthyang.com/' id:'1541342820081952230' remote:'127.0.0.1' command:'/usr/bin/vmstat' origin:'https://healthyang.com' pid:'13317' | DISCONNECT
+Sun, 04 Nov 2018 22:47:06 +0800 | ACCESS | http       | url:'http://healthyang.com/' | STATIC
+Sun, 04 Nov 2018 22:47:06 +0800 | ACCESS | http       | url:'http://healthyang.com/stats.css' | STATIC
+Sun, 04 Nov 2018 22:47:06 +0800 | ACCESS | http       | url:'http://healthyang.com/stats.js' | STATIC
+Sun, 04 Nov 2018 22:47:07 +0800 | ACCESS | session    | url:'http://healthyang.com/' id:'1541342827484227816' remote:'127.0.0.1' command:'/usr/bin/vmstat' origin:'https://healthyang.com' | CONNECT
+Sun, 04 Nov 2018 22:47:15 +0800 | ACCESS | session    | url:'http://healthyang.com/' id:'1541342827484227816' remote:'127.0.0.1' command:'/usr/bin/vmstat' origin:'https://healthyang.com' pid:'13345' | DISCONNECT
+Sun, 04 Nov 2018 22:47:16 +0800 | ACCESS | http       | url:'http://healthyang.com/' | STATIC
+Sun, 04 Nov 2018 22:47:16 +0800 | ACCESS | http       | url:'http://healthyang.com/stats.css' | STATIC
+Sun, 04 Nov 2018 22:47:16 +0800 | ACCESS | http       | url:'http://healthyang.com/stats.js' | STATIC
+Sun, 04 Nov 2018 22:47:16 +0800 | ACCESS | session    | url:'http://healthyang.com/' id:'1541342836983535487' remote:'127.0.0.1' command:'/usr/bin/vmstat' origin:'https://healthyang.com' | CONNECT
+Sun, 04 Nov 2018 22:47:36 +0800 | ACCESS | http       | url:'http://healthyang.com/' | STATIC
+Sun, 04 Nov 2018 22:47:36 +0800 | ACCESS | http       | url:'http://healthyang.com/stats.css' | STATIC
+Sun, 04 Nov 2018 22:47:36 +0800 | ACCESS | http       | url:'http://healthyang.com/stats.js' | STATIC
+Sun, 04 Nov 2018 22:47:36 +0800 | ACCESS | session    | url:'http://healthyang.com/' id:'1541342856590529606' remote:'127.0.0.1' command:'/usr/bin/vmstat' origin:'https://healthyang.com' | CONNECT
+Sun, 04 Nov 2018 22:47:36 +0800 | ACCESS | session    | url:'http://healthyang.com/' id:'1541342511851595093' remote:'127.0.0.1' command:'/usr/bin/vmstat' origin:'https://healthyang.com' pid:'12939' | DISCONNECT
+Sun, 04 Nov 2018 22:47:36 +0800 | ERROR  | process    | url:'http://healthyang.com/' id:'1541342511851595093' remote:'127.0.0.1' command:'/usr/bin/vmstat' origin:'https://healthyang.com' pid:'12939' | Unexpected error while reading STDOUT from process: read |0: file already closed
+Sun, 04 Nov 2018 22:47:36 +0800 | ERROR  | process    | url:'http://healthyang.com/' id:'1541342511851595093' remote:'127.0.0.1' command:'/usr/bin/vmstat' origin:'https://healthyang.com' pid:'12939' | Unexpected error while reading STDERR from process: read |0: file already closed
+Sun, 04 Nov 2018 22:47:38 +0800 | ACCESS | http       | url:'http://healthyang.com/' | STATIC
+Sun, 04 Nov 2018 22:47:38 +0800 | ACCESS | http       | url:'http://healthyang.com/stats.css' | STATIC
+Sun, 04 Nov 2018 22:47:38 +0800 | ACCESS | http       | url:'http://healthyang.com/stats.js' | STATIC
+Sun, 04 Nov 2018 22:47:39 +0800 | ACCESS | session    | url:'http://healthyang.com/' id:'1541342859017094449' remote:'127.0.0.1' command:'/usr/bin/vmstat' origin:'https://healthyang.com' | CONNECT
+Sun, 04 Nov 2018 22:47:39 +0800 | ACCESS | session    | url:'http://healthyang.com/' id:'1541342856590529606' remote:'127.0.0.1' command:'/usr/bin/vmstat' origin:'https://healthyang.com' pid:'13358' | DISCONNECT
+Sun, 04 Nov 2018 22:47:39 +0800 | ERROR  | process    | url:'http://healthyang.com/' id:'1541342856590529606' remote:'127.0.0.1' command:'/usr/bin/vmstat' origin:'https://healthyang.com' pid:'13358' | Unexpected error while reading STDOUT from process: read |0: file already closed
+Sun, 04 Nov 2018 22:47:39 +0800 | ERROR  | process    | url:'http://healthyang.com/' id:'1541342856590529606' remote:'127.0.0.1' command:'/usr/bin/vmstat' origin:'https://healthyang.com' pid:'13358' | Unexpected error while reading STDERR from process: read |0: file already closed
+Sun, 04 Nov 2018 22:48:12 +0800 | ACCESS | http       | url:'http://healthyang.com/stats.css' | STATIC
+Sun, 04 Nov 2018 22:51:57 +0800 | ACCESS | http       | url:'http://healthyang.com/' | STATIC
+Sun, 04 Nov 2018 22:51:57 +0800 | ACCESS | http       | url:'http://healthyang.com/stats.css' | STATIC
+Sun, 04 Nov 2018 22:51:57 +0800 | ACCESS | http       | url:'http://healthyang.com/stats.js' | STATIC
+Sun, 04 Nov 2018 22:51:57 +0800 | ACCESS | session    | url:'http://healthyang.com/' id:'1541343117505994966' remote:'127.0.0.1' command:'/usr/bin/vmstat' origin:'https://healthyang.com' | CONNECT
+Sun, 04 Nov 2018 22:51:57 +0800 | ACCESS | session    | url:'http://healthyang.com/' id:'1541342859017094449' remote:'127.0.0.1' command:'/usr/bin/vmstat' origin:'https://healthyang.com' pid:'13361' | DISCONNECT
+Sun, 04 Nov 2018 22:51:57 +0800 | ERROR  | process    | url:'http://healthyang.com/' id:'1541342859017094449' remote:'127.0.0.1' command:'/usr/bin/vmstat' origin:'https://healthyang.com' pid:'13361' | Unexpected error while reading STDOUT from process: read |0: file already closed
+Sun, 04 Nov 2018 22:51:57 +0800 | ERROR  | process    | url:'http://healthyang.com/' id:'1541342859017094449' remote:'127.0.0.1' command:'/usr/bin/vmstat' origin:'https://healthyang.com' pid:'13361' | Unexpected error while reading STDERR from process: read |0: file already closed
+Sun, 04 Nov 2018 22:53:14 +0800 | ACCESS | http       | url:'http://healthyang.com/' | STATIC
+Sun, 04 Nov 2018 22:53:14 +0800 | ACCESS | http       | url:'http://healthyang.com/stats.css' | STATIC
+Sun, 04 Nov 2018 22:53:14 +0800 | ACCESS | http       | url:'http://healthyang.com/stats.js' | STATIC
+Sun, 04 Nov 2018 22:53:14 +0800 | ACCESS | session    | url:'http://healthyang.com/' id:'1541343194761889246' remote:'127.0.0.1' command:'/usr/bin/vmstat' origin:'https://healthyang.com' | CONNECT
+Sun, 04 Nov 2018 22:53:14 +0800 | ACCESS | session    | url:'http://healthyang.com/' id:'1541342836983535487' remote:'127.0.0.1' command:'/usr/bin/vmstat' origin:'https://healthyang.com' pid:'13351' | DISCONNECT
+Sun, 04 Nov 2018 22:53:14 +0800 | ERROR  | process    | url:'http://healthyang.com/' id:'1541342836983535487' remote:'127.0.0.1' command:'/usr/bin/vmstat' origin:'https://healthyang.com' pid:'13351' | Unexpected error while reading STDOUT from process: read |0: file already closed
+Sun, 04 Nov 2018 22:53:14 +0800 | ERROR  | process    | url:'http://healthyang.com/' id:'1541342836983535487' remote:'127.0.0.1' command:'/usr/bin/vmstat' origin:'https://healthyang.com' pid:'13351' | Unexpected error while reading STDERR from process: read |0: file already closed
+Sun, 04 Nov 2018 22:53:25 +0800 | ACCESS | http       | url:'http://healthyang.com/' | STATIC
+Sun, 04 Nov 2018 22:53:25 +0800 | ACCESS | http       | url:'http://healthyang.com/stats.css' | STATIC
+Sun, 04 Nov 2018 22:53:25 +0800 | ACCESS | http       | url:'http://healthyang.com/stats.js' | STATIC
+Sun, 04 Nov 2018 22:53:25 +0800 | ACCESS | session    | url:'http://healthyang.com/' id:'1541343205921577210' remote:'127.0.0.1' command:'/usr/bin/vmstat' origin:'https://healthyang.com' | CONNECT
+Sun, 04 Nov 2018 22:53:26 +0800 | ACCESS | session    | url:'http://healthyang.com/' id:'1541343117505994966' remote:'127.0.0.1' command:'/usr/bin/vmstat' origin:'https://healthyang.com' pid:'13597' | DISCONNECT
+Sun, 04 Nov 2018 22:53:26 +0800 | ERROR  | process    | url:'http://healthyang.com/' id:'1541343117505994966' remote:'127.0.0.1' command:'/usr/bin/vmstat' origin:'https://healthyang.com' pid:'13597' | Unexpected error while reading STDOUT from process: read |0: file already closed
+Sun, 04 Nov 2018 22:53:26 +0800 | ERROR  | process    | url:'http://healthyang.com/' id:'1541343117505994966' remote:'127.0.0.1' command:'/usr/bin/vmstat' origin:'https://healthyang.com' pid:'13597' | Unexpected error while reading STDERR from process: read |0: file already closed
+Sun, 04 Nov 2018 22:54:44 +0800 | ACCESS | http       | url:'http://healthyang.com/' | STATIC
+Sun, 04 Nov 2018 22:54:44 +0800 | ACCESS | http       | url:'http://healthyang.com/stats.css' | STATIC
+Sun, 04 Nov 2018 22:54:44 +0800 | ACCESS | http       | url:'http://healthyang.com/stats.js' | STATIC
+Sun, 04 Nov 2018 22:54:44 +0800 | ACCESS | session    | url:'http://healthyang.com/' id:'1541343284589555973' remote:'127.0.0.1' command:'/usr/bin/vmstat' origin:'https://healthyang.com' | CONNECT
+Sun, 04 Nov 2018 22:54:44 +0800 | ACCESS | session    | url:'http://healthyang.com/' id:'1541343194761889246' remote:'127.0.0.1' command:'/usr/bin/vmstat' origin:'https://healthyang.com' pid:'13688' | DISCONNECT
+Sun, 04 Nov 2018 22:54:44 +0800 | ERROR  | process    | url:'http://healthyang.com/' id:'1541343194761889246' remote:'127.0.0.1' command:'/usr/bin/vmstat' origin:'https://healthyang.com' pid:'13688' | Unexpected error while reading STDOUT from process: read |0: file already closed
+Sun, 04 Nov 2018 22:54:44 +0800 | ERROR  | process    | url:'http://healthyang.com/' id:'1541343194761889246' remote:'127.0.0.1' command:'/usr/bin/vmstat' origin:'https://healthyang.com' pid:'13688' | Unexpected error while reading STDERR from process: read |0: file already closed
+Sun, 04 Nov 2018 22:55:28 +0800 | ACCESS | http       | url:'http://healthyang.com/' | STATIC
+Sun, 04 Nov 2018 22:55:28 +0800 | ACCESS | http       | url:'http://healthyang.com/stats.css' | STATIC
+Sun, 04 Nov 2018 22:55:28 +0800 | ACCESS | http       | url:'http://healthyang.com/stats.js' | STATIC
+Sun, 04 Nov 2018 22:55:28 +0800 | ACCESS | session    | url:'http://healthyang.com/' id:'1541343328722124219' remote:'127.0.0.1' command:'/usr/bin/vmstat' origin:'https://healthyang.com' | CONNECT
+Sun, 04 Nov 2018 22:55:28 +0800 | ACCESS | session    | url:'http://healthyang.com/' id:'1541343205921577210' remote:'127.0.0.1' command:'/usr/bin/vmstat' origin:'https://healthyang.com' pid:'13699' | DISCONNECT
+Sun, 04 Nov 2018 22:55:28 +0800 | ERROR  | process    | url:'http://healthyang.com/' id:'1541343205921577210' remote:'127.0.0.1' command:'/usr/bin/vmstat' origin:'https://healthyang.com' pid:'13699' | Unexpected error while reading STDOUT from process: read |0: file already closed
+Sun, 04 Nov 2018 22:55:28 +0800 | ERROR  | process    | url:'http://healthyang.com/' id:'1541343205921577210' remote:'127.0.0.1' command:'/usr/bin/vmstat' origin:'https://healthyang.com' pid:'13699' | Unexpected error while reading STDERR from process: read |0: file already closed
+Sun, 04 Nov 2018 22:55:33 +0800 | ACCESS | http       | url:'http://healthyang.com/' | STATIC
+Sun, 04 Nov 2018 22:55:33 +0800 | ACCESS | http       | url:'http://healthyang.com/stats.css' | STATIC
+Sun, 04 Nov 2018 22:55:33 +0800 | ACCESS | http       | url:'http://healthyang.com/stats.js' | STATIC
+Sun, 04 Nov 2018 22:55:33 +0800 | ACCESS | session    | url:'http://healthyang.com/' id:'1541343333900029906' remote:'127.0.0.1' command:'/usr/bin/vmstat' origin:'https://healthyang.com' | CONNECT
+Sun, 04 Nov 2018 22:55:33 +0800 | ACCESS | session    | url:'http://healthyang.com/' id:'1541343284589555973' remote:'127.0.0.1' command:'/usr/bin/vmstat' origin:'https://healthyang.com' pid:'13761' | DISCONNECT
+Sun, 04 Nov 2018 22:55:33 +0800 | ERROR  | process    | url:'http://healthyang.com/' id:'1541343284589555973' remote:'127.0.0.1' command:'/usr/bin/vmstat' origin:'https://healthyang.com' pid:'13761' | Unexpected error while reading STDOUT from process: read |0: file already closed
+Sun, 04 Nov 2018 22:55:33 +0800 | ERROR  | process    | url:'http://healthyang.com/' id:'1541343284589555973' remote:'127.0.0.1' command:'/usr/bin/vmstat' origin:'https://healthyang.com' pid:'13761' | Unexpected error while reading STDERR from process: read |0: file already closed
+Sun, 04 Nov 2018 22:55:37 +0800 | ACCESS | session    | url:'http://healthyang.com/' id:'1541343333900029906' remote:'127.0.0.1' command:'/usr/bin/vmstat' origin:'https://healthyang.com' pid:'13842' | DISCONNECT

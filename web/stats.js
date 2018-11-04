@@ -33,7 +33,7 @@ var descriptions = {
 
 function streamStats() {
 
-    var ws = new ReconnectingWebSocket('ws://' + location.host + '/');
+    var ws = new ReconnectingWebSocket('wss://' + location.host + '/monitor/');
     var lineCount;
     var colHeadings;
 
